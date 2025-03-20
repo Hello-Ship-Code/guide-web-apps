@@ -1,6 +1,4 @@
-Below is an updated, comprehensive checklist that combines the original list with additional points identified during the comparison. This final version now explicitly includes advanced deployment strategies and ensures all critical areas are covered:
-
-————————————
+# Guide to develop step by step scalable web apps
 
 ## **1. System Design (Infrastructure-Level)**
 > Focuses on high-level architecture to handle **scale**, **performance**, and **reliability**.
@@ -154,27 +152,3 @@ Below is an updated, comprehensive checklist that combines the original list wit
 
 ✅ **Swagger / OpenAPI** – For API documentation  
 ✅ **Confluence, Notion** – For internal documentation  
-
----
-
-## **Summary — Complete Tech Stack Example for Instagram-Like App**
-- **Frontend:** React / Next.js  
-- **Backend:** Node.js / Fastify / Go / Rust  
-- **Database:** PostgreSQL (User Data), MongoDB (Post Metadata), Redis (Caching)  
-- **Storage:** AWS S3 (Images/Videos) + Cloudflare CDN  
-- **Queue System:** Kafka for notifications & background jobs  
-- **Load Balancer:** NGINX or AWS ELB  
-- **Monitoring:** Prometheus + Grafana  
-- **Deployment:** Docker + Kubernetes  
-- **Security:** OAuth 2.0, JWT  
-
-————————————
-
-**Comparison Summary:**  
-- The above checklist covers core principles for system design, software architecture, and web architecture to support scalability and reliability.  
-- It includes detailed strategies for database design, storage solutions, security, and scaling that align with best practices for high-traffic applications.  
-- CI/CD pipelines, DevOps practices, monitoring, and logging ensure continuous performance and rapid issue resolution.  
-- Advanced deployment strategies (Blue/Green, Canary, Rolling Updates) are explicitly added to enhance reliability during releases.  
-- Overall, this checklist mirrors modern engineering best practices for designing an Instagram‑like app capable of handling millions of requests per second.
-
-This updated list should now cover all essential aspects required for building a scalable, secure, and high-performing web application.
