@@ -30,7 +30,7 @@ This phase creates a **clear roadmap**, validating the idea and setting the stag
 
 ---
 
-## 🏛️ Phase 3: Detailed Design & Architecture
+## 🏛️ [Phase 3](./phase-3/README.md): Detailed Design & Architecture
 
 This stage integrates all **key development methods** into a **unified technical blueprint**.
 
