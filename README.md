@@ -1,20 +1,20 @@
-Below is the enhanced roadmap with additional details to fill any gaps and provide an even more comprehensive view of how big tech companies take an app from idea to production.
+# Guide to develop a scalable web app
 
-⸻
+## Phase 1: Ideation & Conceptualization:
 
-Phase 1: Ideation & Conceptualization
-	•	Idea Submission & Initial Vetting:
-An employee pitches an idea to their manager or team. Early discussions focus on identifying the problem, the target audience, and alignment with business strategy.
+> Idea Submission & Initial Vetting:
+- An employee pitches an idea to their manager or team. Early discussions focus on identifying the problem, the target audience, and alignment with business strategy.
 At this stage, business value is validated, but technical specifics are minimal.
 
-⸻
+## Phase 2: Planning, Analysis & Architectural Vision
 
-Phase 2: Planning, Analysis & Architectural Vision
-	•	Requirement Gathering & Business Case:
-Cross-functional teams (product managers, designers, engineers) capture user stories, define success metrics, conduct market research, and estimate ROI.
-	•	Early Architectural Considerations:
-Discussions begin around potential system models (e.g., monolithic vs. microservices) and high-level scalability needs.
-	•	Initial System Design (Infrastructure-Level) Considerations:
+> Requirement Gathering & Business Case:
+- Cross-functional teams (product managers, designers, engineers) capture user stories, define success metrics, conduct market research, and estimate ROI.
+
+> Early Architectural Considerations:
+- Discussions begin around potential system models (e.g., monolithic vs. microservices) and high-level scalability needs.
+  
+> Initial System Design (Infrastructure-Level) Considerations:
 High-level plans outline:
 	•	Load Balancing: Evaluating NGINX, HAProxy, or AWS ELB
 	•	Content Delivery: Assessing CDN options such as Cloudflare or Akamai
