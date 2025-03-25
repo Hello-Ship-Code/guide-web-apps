@@ -115,7 +115,7 @@ At the end of **Phase 3**, the **technical blueprint** is finalized and approved
 
 ---
 
-## 🔄 Phase 7: Post-Deployment & Continuous Improvement
+## 🔄 [Phase 7](./phase-7/README.md): Post-Deployment & Continuous Improvement
 
 ### 📊 Live Monitoring & Incident Response
 - **🚨 Real-time alerting**: Incident response protocols
