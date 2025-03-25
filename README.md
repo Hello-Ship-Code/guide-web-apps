@@ -95,7 +95,7 @@ At the end of **Phase 3**, the **technical blueprint** is finalized and approved
 
 ---
 
-## 🔥 Phase 5: Testing & Performance Optimization
+## 🔥 [Phase 5](./phase-5/README.md): Testing & Performance Optimization
 
 ### 🛠️ Testing
 - **✅ Unit, Integration, Load Testing**: k6, JMeter, Gatling
