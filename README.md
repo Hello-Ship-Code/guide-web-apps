@@ -9,7 +9,7 @@
 
 ---
 
-## 🏗️ Phase 2: Planning, Analysis & Architectural Vision
+## 🏗️ [Phase 2](./phase-2/README.md): Planning, Analysis & Architectural Vision
 
 ### 📜 Requirement Gathering & Business Case
 - **Cross-functional teams** (product managers, designers, engineers) capture **user stories, define success metrics, conduct market research, and estimate ROI**.
