@@ -105,7 +105,7 @@ At the end of **Phase 3**, the **technical blueprint** is finalized and approved
 
 ---
 
-## 🚢 Phase 6: Deployment & Rollout
+## 🚢 [Phase 6](./phase-6/README.md): Deployment & Rollout
 
 ### 🔄 Final Testing & Staging
 - **🚀 Staging Environment** mirrors production
