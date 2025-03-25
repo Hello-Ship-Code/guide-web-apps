@@ -81,7 +81,7 @@ At the end of **Phase 3**, the **technical blueprint** is finalized and approved
 
 ---
 
-## 👨‍💻 Phase 4: Implementation & Development
+## 👨‍💻 [Phase 4](./phase-4/README.md): Implementation & Development
 
 ### 🚀 Development
 - Developers follow coding standards, **design patterns, best practices** outlined in Phase 3.
