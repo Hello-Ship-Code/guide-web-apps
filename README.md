@@ -1,6 +1,6 @@
 # 🚀 Guide to Developing a Scalable Web App
 
-## 📌[Phase 1](./Phase-1/README.md): Ideation & Conceptualization
+## 📌[Phase 1](./phase-1/README.md): Ideation & Conceptualization
 
 ### 💡 Idea Submission & Initial Vetting
 - An employee pitches an idea to their manager or team.
